@@ -1,0 +1,6 @@
+/* Code tidied up by ScrapBook */
+.yui3-widget-hidden { display: none; }
+.yui3-widget-content { overflow: hidden; }
+.yui3-widget-content-expanded { box-sizing: border-box; height: 100%; }
+.yui3-widget-tmp-forcesize { overflow: hidden !important; }
+#yui3-css-stamp.skin-sam-widget-base { display: none; }
